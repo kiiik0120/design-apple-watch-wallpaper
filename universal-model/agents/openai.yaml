@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apple Watch 壁纸·严格确认版"
+  short_description: "逐项确认边界后生成单张 42mm/46mm 壁纸"
+  default_prompt: "Use $design-apple-watch-wallpaper-universal to confirm every required boundary with me before creating one Apple Watch wallpaper."
