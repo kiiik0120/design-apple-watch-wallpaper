@@ -1,6 +1,6 @@
 # design-apple-watch-wallpaper
 
-一个用于制作 **Apple Watch 最新款 Series 照片表盘壁纸** 的 Codex Skill。
+一个用于制作 **Apple Watch 最新款 Series 照片表盘壁纸** 的 Skill。
 
 > 最后更新：2026-08-11
 
