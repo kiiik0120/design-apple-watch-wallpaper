@@ -1,4 +1,0 @@
-interface:
-  display_name: "最新款 Apple Watch Series 壁纸"
-  short_description: "选择布局后生成单张 42mm/46mm 照片表盘壁纸"
-  default_prompt: "Use $design-apple-watch-wallpaper to ask me for one clock layout, then create one clock-safe wallpaper for a latest-series 42mm or 46mm Apple Watch Photos face."
