@@ -20,8 +20,8 @@
 
 ## 版本选择
 
-- **Codex Skill：** 使用仓库根目录的 `SKILL.md`，适合 Codex，包含完整判断、编辑和验证流程。
-- **通用模型兼容版：** 使用 `prompts/universal-model-prompt.md`，可复制到豆包、通义、DeepSeek 等支持图片输入或图片编辑的模型。该版本采用更短、更明确的步骤，减少模型遗漏约束的概率。
+- **Codex Skill：** 使用 [`codex-skill/`](codex-skill/) 文件夹，适合 Codex，包含完整判断、编辑和验证流程。
+- **通用模型兼容版：** 使用 [`universal-model/`](universal-model/) 文件夹，可复制到豆包、通义、DeepSeek 等支持图片输入或图片编辑的模型。该版本采用更短、更明确的步骤，减少模型遗漏约束的概率。
 
 不同模型的图片编辑和精确尺寸导出能力不同。通用提示词可以统一工作流程，但不能保证所有模型都能直接输出精确像素文件。
 
@@ -39,4 +39,4 @@ Skill 会优先参考用户提供的 Watch App 表盘预览；若未指定布局
 
 ## 通用模型使用方法
 
-打开 [`prompts/universal-model-prompt.md`](prompts/universal-model-prompt.md)，复制其中的完整提示词，填写手表尺寸、时间位置、时钟颜色和色彩模式，然后随原图一起发送给模型。
+打开 [`universal-model/PROMPT.md`](universal-model/PROMPT.md)，复制其中的完整提示词，填写手表尺寸、时间位置、时钟颜色和色彩模式，然后随原图一起发送给模型。
